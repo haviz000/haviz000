@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Haviz</h1>
 <div align="center">
   <a href="https://github.com/haviz000">
-    <img src="https://raw.githubusercontent.com/haviz000/haviz000/main/profile-circle.svg" width="300" />
+    <img src="./maself.png" width="300" style="background-color: #fff;"/>
   </a>
 </div>
 <h3 align="center">I'm a Software Engineer from Indonesia</h3>
