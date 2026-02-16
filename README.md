@@ -1,9 +1,8 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Haviz</h1>
 <div align="center">
-  <img width="50%" height="280px" src="https://viz-dev.vercel.app/assets/smiley-CnQ71pNc.svg"/>
+  <img width="50%" height="480px" src="https://viz-dev.vercel.app/assets/smiley-CnQ71pNc.svg"/>
 </div>
 <h3 align="center">I'm a Software Engineer from Indonesia</h3>
-
 
 ## About Me
 
@@ -11,10 +10,9 @@
 
 - I’m looking to collaborate on **OpenSource Projects**
 
-- I’m interested with  **Blockchain development**
+- I’m interested with **Blockchain development**
 
 - How to reach me **haviz.tasmara000@gmail.com**
-
 
 <table align="center">
   <tr>
@@ -27,6 +25,6 @@
   </tr>
 </table>
 
-
+<div align="center">
  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=haviz000&theme=2077" height="180em" />
-
+ </div>
