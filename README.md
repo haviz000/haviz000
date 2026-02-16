@@ -1,14 +1,8 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Haviz</h1>
 <div align="center">
-  <table border="0">
-    <tr>
-      <td align="center" style="background-color: #e11d48; border-radius: 50%; border: none">
-        <a href="https://github.com/haviz000">
-          <img src="https://viz-dev.vercel.app/assets/smiley-CnQ71pNc.svg" width="300" height="300" />
-        </a>
-      </td>
-    </tr>
-  </table>
+  <a href="https://github.com/haviz000">
+    <img src="https://raw.githubusercontent.com/haviz000/haviz000/main/profile-circle.svg" width="300" />
+  </a>
 </div>
 <h3 align="center">I'm a Software Engineer from Indonesia</h3>
 
